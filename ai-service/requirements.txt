@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+pydantic
+transformers
+# torch
+keybert
+sentence-transformers
+groq
+python-dotenv
+scipy
+scikit-learn
+numpy
+
+# fastapi
+# uvicorn
+# transformers
+# torch
+# keybert
+# sentence-transformers
+# groq
+# python-multipart
